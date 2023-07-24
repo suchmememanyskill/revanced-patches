@@ -1,3 +1,10 @@
+# [2.187.0-dev.1](https://github.com/suchmememanyskill/revanced-patches/compare/v2.186.0...v2.187.0-dev.1) (2023-07-24)
+
+
+### Features
+
+* **octoapp:** Remove premium paywall ([5b25709](https://github.com/suchmememanyskill/revanced-patches/commit/5b25709c859ad22786d154efbe0efc02f1f4a3ee))
+
 # [2.186.0](https://github.com/ReVanced/revanced-patches/compare/v2.185.0...v2.186.0) (2023-07-21)
 
 
